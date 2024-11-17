@@ -1,0 +1,41 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003ABoolean_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FLibrary_003FApplication_0020Support_003FJetBrains_003FRider2024_002E2_003Fresharper_002Dhost_003FDecompilerCache_003Fdecompiler_003Fa0741529c8554d199992ef9e50684668d82800_003F16_003F5961d7d4_003FBoolean_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=40c6a867_002D14fa_002D48a0_002D8554_002D3321d3a7ed09/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;DictionaryApp.Tests&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/Users/danet/Downloads/DictionaryLab1-master/DictionaryApp.Tests" Presentation="&amp;lt;DictionaryApp.Tests&amp;gt;" /&gt;
+&lt;/SessionState&gt;</s:String>
+	
+	
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=455663d6_002D486a_002D4e4e_002D87f3_002D20d8385d6431/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;DictionaryApp.Tests&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;ProjectFile&gt;CA89ECDE-E9FB-41FF-A8EF-73B6F983ED9D/f:DataBaseTest.cs&lt;/ProjectFile&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6f5b2139_002D0a7c_002D4e9e_002D8e90_002D30c4740048c1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from DataBaseTest.cs #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;ProjectFile&gt;CA89ECDE-E9FB-41FF-A8EF-73B6F983ED9D/f:DataBaseTest.cs&lt;/ProjectFile&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9c1bce86_002Ddb06_002D4d8f_002Da131_002D4d7ea2e4261d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from DataBaseTest.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;ProjectFile&gt;CA89ECDE-E9FB-41FF-A8EF-73B6F983ED9D/f:DataBaseTest.cs&lt;/ProjectFile&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a70ecdc7_002Df8b6_002D455d_002D8fca_002De5d65fef6f31/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from DataBaseTest.cs #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;ProjectFile&gt;CA89ECDE-E9FB-41FF-A8EF-73B6F983ED9D/f:DataBaseTest.cs&lt;/ProjectFile&gt;
+&lt;/SessionState&gt;</s:String>
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=aff7f956_002D5480_002D4065_002Db3ed_002Dc141d20013f1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from UnitTest3.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Solution /&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bc48b77e_002D3d91_002D44af_002D8950_002D0c94ce18178c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ContainsAsync_ShouldReturnTrue_WhenWordExists" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::CA89ECDE-E9FB-41FF-A8EF-73B6F983ED9D::net8.0::dictionary_app.Tests.DatabaseTests.ContainsAsync_ShouldReturnTrue_WhenWordExists&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d28f4a74_002D7f0a_002D4740_002Dad0d_002D21399478483a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from AddNewWordTest.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;ProjectFile&gt;CA89ECDE-E9FB-41FF-A8EF-73B6F983ED9D/f:AddNewWordTest.cs&lt;/ProjectFile&gt;
+    &lt;ProjectFile&gt;CA89ECDE-E9FB-41FF-A8EF-73B6F983ED9D/f:DataBaseTest.cs&lt;/ProjectFile&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d5343fcd_002Dcbc3_002D4fa4_002D800e_002D83bd61a08491/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from Solution" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Solution /&gt;
+&lt;/SessionState&gt;</s:String>
+	
+	
+	</wpf:ResourceDictionary>
